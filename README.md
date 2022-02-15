@@ -13,3 +13,7 @@ The script assumes that you use [Tampermonkey](https://www.tampermonkey.net/) an
 
 ## Other
 If you use another browser extension to inject JavaScript, should remove the Tampermonkey header lines from the script before injecting.
+
+# Screenshot
+
+![Team calendar screenshot](/officient_qol_calendar_tip.png)
