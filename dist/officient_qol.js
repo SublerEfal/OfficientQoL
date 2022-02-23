@@ -28,6 +28,9 @@
         .custom-passed-day {
             display: none !important;
         }
+     	.custom-current-sorted-day .dayholder {
+            color: #151914;
+        }
     `);
 
 	function addStyle(styleString) {
